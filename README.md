@@ -3,7 +3,7 @@
 
 ## Overview
 
-This repository holds my Week 04 submission for the IYF Weekend Academy. Throughout this week, I gained hands-on experience with the Linux terminal, Git, and GitHub for managing projects in a professional manner. I worked on navigating the terminal, handling files, branching and merging in Git, and writing clear documentation for my work.
+This repository holds my Week 04 submission. This week, I learned the basics of JavaScript to build simple computer programs. I practiced writing reusable blocks of code, using logic like "if/else" statements and loops, organizing data in lists called arrays, and reversing strings to build tools like a palindrome checker.
 
 ## Project Progress & Checklist
 
