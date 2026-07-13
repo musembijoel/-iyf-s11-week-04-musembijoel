@@ -17,7 +17,7 @@ This repository holds my Week 04 submission for the IYF Weekend Academy. Through
 - Work with arrays of objects
 - Calculator project complete
 - Grade tracker project complete
-- All daily challenges complete
+
 
 ## Technologies Used
 
@@ -26,7 +26,6 @@ This repository holds my Week 04 submission for the IYF Weekend Academy. Through
 - Visual Studio Code / GitHub Codespaces
 - Browser Developer Tools (Console)
 - Git & GitHub
-- Bash Terminal
 
 ## Project Structure
 
