@@ -21,9 +21,9 @@ This repository holds my Week 04 submission. This week, I learned the basics of 
 
 ## Technologies Used
 
-- JavaScript (ES6+)
+- JavaScript 
 - Node.js Runtime
-- Visual Studio Code / GitHub Codespaces
+- Visual Studio Code
 - Browser Developer Tools (Console)
 - Git & GitHub
 
